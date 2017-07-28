@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Grid System" verbose="1" >
+    <test name="Login">
+        <classes>
+            <class name="Login" />
+        </classes>
+    </test>
+    <test name="Filters">
+        <classes>
+            <class name="Filters" />
+        </classes>
+    </test>
+    <test name="Actions add/edit">
+        <classes>
+            <class name="Actions" />
+        </classes>
+    </test>
+</suite>
