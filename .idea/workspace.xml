@@ -6,25 +6,8 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/tests/Filters.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/tests/Login.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/tests/MainClasses.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tests/Login.java" afterPath="$PROJECT_DIR$/src/tests/Login.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Actions add_edit.html" afterPath="$PROJECT_DIR$/test-output/Grid System/Actions add_edit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Actions add_edit.xml" afterPath="$PROJECT_DIR$/test-output/Grid System/Actions add_edit.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Filters.html" afterPath="$PROJECT_DIR$/test-output/Grid System/Filters.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Filters.xml" afterPath="$PROJECT_DIR$/test-output/Grid System/Filters.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Login.html" afterPath="$PROJECT_DIR$/test-output/Grid System/Login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Login.xml" afterPath="$PROJECT_DIR$/test-output/Grid System/Login.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/Grid System/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/emailable-report.html" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/index.html" afterPath="$PROJECT_DIR$/test-output/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Actions.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Actions.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Filters.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Filters.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Login.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Login.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Grid System/methods-alphabetical.html" afterPath="$PROJECT_DIR$/test-output/old/Grid System/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Grid System/methods.html" afterPath="$PROJECT_DIR$/test-output/old/Grid System/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Grid System/toc.html" afterPath="$PROJECT_DIR$/test-output/old/Grid System/toc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/index.html" afterPath="$PROJECT_DIR$/test-output/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/testng-results.xml" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +38,8 @@
       <file leaf-file-name="Login.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tests/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="17" column="11" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="100">
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -931,7 +914,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88242000" />
+    <option name="totallyTimeSpent" value="88758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -1296,8 +1279,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tests/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="17" column="11" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="17" selection-end-column="11" />
+        <state relative-caret-position="100">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding />
         </state>
       </provider>
