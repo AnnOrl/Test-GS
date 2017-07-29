@@ -2,11 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c69eeebb-e4b8-407f-a3cc-082a38f4d0bd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AfterSuite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BeforeSuite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tests/Login.java" afterPath="$PROJECT_DIR$/src/tests/Login.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Actions add_edit.html" afterPath="$PROJECT_DIR$/test-output/Grid System/Actions add_edit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Actions add_edit.xml" afterPath="$PROJECT_DIR$/test-output/Grid System/Actions add_edit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Filters.html" afterPath="$PROJECT_DIR$/test-output/Grid System/Filters.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Filters.xml" afterPath="$PROJECT_DIR$/test-output/Grid System/Filters.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Login.html" afterPath="$PROJECT_DIR$/test-output/Grid System/Login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Login.xml" afterPath="$PROJECT_DIR$/test-output/Grid System/Login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/Grid System/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/emailable-report.html" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/index.html" afterPath="$PROJECT_DIR$/test-output/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Actions.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Actions.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Filters.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Filters.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Login.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Grid System/methods-alphabetical.html" afterPath="$PROJECT_DIR$/test-output/old/Grid System/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Grid System/methods.html" afterPath="$PROJECT_DIR$/test-output/old/Grid System/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Grid System/toc.html" afterPath="$PROJECT_DIR$/test-output/old/Grid System/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/index.html" afterPath="$PROJECT_DIR$/test-output/old/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/testng-results.xml" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/src/tests/Login.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+              <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -913,10 +927,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90359000" />
+    <option name="totallyTimeSpent" value="90820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -933,7 +948,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30162162" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30162162" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25352877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1279,7 +1294,7 @@
     <entry file="file://$PROJECT_DIR$/src/tests/Login.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
           <folding />
         </state>
       </provider>

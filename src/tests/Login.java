@@ -11,7 +11,7 @@ public class Login extends MainClasses{
         DRIVER.findElement(By.name("password")).sendKeys("SKFs78AKLDnoa-");
         DRIVER.findElement(By.name("password")).submit();
         boolean wait = MainDriver.myWait(DRIVER, 5, ExpectedConditions.visibilityOfElementLocated(
-                By.cssSelector(".warningmessage")), false);
+                By.cssSelector(".warning.message")), false);
         if (wait) {
             MainDriver.fail("Error login/password");
         }
