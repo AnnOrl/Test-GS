@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 3 failed tests</span>
+      <span class="top-banner-font-1">1 suite, 5 failed tests</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">6 methods, 3 failed,   3 passed</span>
+                    <span class="method-stats">6 methods, 5 failed,   1 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -112,7 +112,17 @@
                       <br/>
                       <span>
                         <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Grid_System" title="Filters" hash-for-method="coupleFilter">coupleFilter</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Grid_System" title="Filters" hash-for-method="filterFieldsIP">filterFieldsIP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Grid_System" title="Filters" hash-for-method="filterFieldsQ">filterFieldsQ</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-Grid_System -->
@@ -124,16 +134,6 @@
                       <a href="#" panel-name="suite-Grid_System" class="show-methods passed suite-Grid_System"> (show)</a> <!-- show-methods passed suite-Grid_System -->
                     </span>
                     <div class="method-list-content passed suite-Grid_System">
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Grid_System" title="Filters" hash-for-method="coupleFilter">coupleFilter</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Grid_System" title="Filters" hash-for-method="filterFieldsQ">filterFieldsQ</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Grid_System" title="Login" hash-for-method="login">login</a> <!-- method navigator-link -->
@@ -159,41 +159,16 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="filterFieldsIP">
-                  </a> <!-- filterFieldsIP -->
-                  <span class="method-name">filterFieldsIP</span>
-                  <div class="stack-trace">java.lang.AssertionError: Expected condition failed: waiting for visibility of element located by By.cssSelector: #search-dropdown-bActive div (tried for 10 second(s) with 500 MILLISECONDS interval)
-	at org.junit.Assert.fail(Assert.java:88)
-	at ActionDrivers.MainDriver.fail(MainDriver.java:64)
-	at ActionDrivers.MainDriver.myWait(MainDriver.java:58)
-	at Filters.currentUrl(Filters.java:82)
-	at Filters.filterFieldsIP(Filters.java:30)
-... Removed 24 stack frames
-</div> <!-- stack-trace -->
-                  <em>
-(Products)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Grid_System-class-failed -->
-          <div class="suite-Grid_System-class-failed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">Actions</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="actionAdd">
-                  </a> <!-- actionAdd -->
-                  <span class="method-name">actionAdd</span>
+                  <a name="coupleFilter">
+                  </a> <!-- coupleFilter -->
+                  <span class="method-name">coupleFilter</span>
                   <div class="stack-trace">org.openqa.selenium.WebDriverException: Failed to decode response from marionette
 Build info: version: &apos;unknown&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
 System info: host: &apos;DESKTOP-ADBAJG0&apos;, ip: &apos;10.168.133.55&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_131&apos;
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\orlya\AppData\Local\Temp\rust_mozprofile.1YeLYknGxcPI, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=10.0, moz:processID=792.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
-Session ID: bce3aae6-73f0-4d0b-bcfb-fb71522aad69
-*** Element info: {Using=css selector, value=.ui.error.message}
+Capabilities [{moz:profile=C:\Users\orlya\AppData\Local\Temp\rust_mozprofile.Gp5N4VzBfYCf, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=10.0, moz:processID=9464.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 9264f284-d7ab-4351-8e99-dd55854a7274
+*** Element info: {Using=css selector, value=.column-search [name=&apos;sNo&apos;]}
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:150)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:115)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:45)
@@ -210,7 +185,96 @@ Session ID: bce3aae6-73f0-4d0b-bcfb-fb71522aad69
 	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:202)
 	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:209)
 	at ActionDrivers.MainDriver.myWait(MainDriver.java:54)
-	at Actions.actionAdd(Actions.java:41)
+	at Filters.currentUrl(Filters.java:92)
+	at Filters.coupleFilter(Filters.java:41)
+... Removed 28 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Quote)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="filterFieldsIP">
+                  </a> <!-- filterFieldsIP -->
+                  <span class="method-name">filterFieldsIP</span>
+                  <div class="stack-trace">org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: &apos;unknown&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
+System info: host: &apos;DESKTOP-ADBAJG0&apos;, ip: &apos;10.168.133.55&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_131&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\orlya\AppData\Local\Temp\rust_mozprofile.Gp5N4VzBfYCf, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=10.0, moz:processID=9464.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 9264f284-d7ab-4351-8e99-dd55854a7274
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:150)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:115)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:45)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:364)
+	at ActionDrivers.MainDriver.getUrl(MainDriver.java:48)
+	at Filters.currentUrl(Filters.java:58)
+	at Filters.filterFieldsIP(Filters.java:30)
+... Removed 28 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Products)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="filterFieldsQ">
+                  </a> <!-- filterFieldsQ -->
+                  <span class="method-name">filterFieldsQ</span>
+                  <div class="stack-trace">org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: &apos;unknown&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
+System info: host: &apos;DESKTOP-ADBAJG0&apos;, ip: &apos;10.168.133.55&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_131&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\orlya\AppData\Local\Temp\rust_mozprofile.Gp5N4VzBfYCf, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=10.0, moz:processID=9464.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 9264f284-d7ab-4351-8e99-dd55854a7274
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:150)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:115)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:45)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:364)
+	at ActionDrivers.MainDriver.getUrl(MainDriver.java:48)
+	at Filters.currentUrl(Filters.java:58)
+	at Filters.filterFieldsQ(Filters.java:51)
+... Removed 28 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Quote)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Grid_System-class-failed -->
+          <div class="suite-Grid_System-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">Actions</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="actionAdd">
+                  </a> <!-- actionAdd -->
+                  <span class="method-name">actionAdd</span>
+                  <div class="stack-trace">org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: &apos;unknown&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
+System info: host: &apos;DESKTOP-ADBAJG0&apos;, ip: &apos;10.168.133.55&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_131&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\orlya\AppData\Local\Temp\rust_mozprofile.Gp5N4VzBfYCf, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=10.0, moz:processID=9464.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 9264f284-d7ab-4351-8e99-dd55854a7274
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:150)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:115)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:45)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:364)
+	at ActionDrivers.MainDriver.getUrl(MainDriver.java:48)
+	at Actions.actionAdd(Actions.java:26)
 ... Removed 28 stack frames
 </div> <!-- stack-trace -->
                   <em>
@@ -226,8 +290,8 @@ Session ID: bce3aae6-73f0-4d0b-bcfb-fb71522aad69
 Build info: version: &apos;unknown&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
 System info: host: &apos;DESKTOP-ADBAJG0&apos;, ip: &apos;10.168.133.55&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_131&apos;
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\orlya\AppData\Local\Temp\rust_mozprofile.1YeLYknGxcPI, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=10.0, moz:processID=792.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
-Session ID: bce3aae6-73f0-4d0b-bcfb-fb71522aad69
+Capabilities [{moz:profile=C:\Users\orlya\AppData\Local\Temp\rust_mozprofile.Gp5N4VzBfYCf, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=10.0, moz:processID=9464.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 9264f284-d7ab-4351-8e99-dd55854a7274
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:150)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:115)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:45)
@@ -258,32 +322,6 @@ Session ID: bce3aae6-73f0-4d0b-bcfb-fb71522aad69
                   <span class="method-name">login</span>
                   <em>
 (login form)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Grid_System-class-passed -->
-          <div class="suite-Grid_System-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">Filters</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="coupleFilter">
-                  </a> <!-- coupleFilter -->
-                  <span class="method-name">coupleFilter</span>
-                  <em>
-(Quote)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="filterFieldsQ">
-                  </a> <!-- filterFieldsQ -->
-                  <span class="method-name">filterFieldsQ</span>
-                  <em>
-(Quote)                  </em>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -358,34 +396,34 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(6);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'filterFieldsIP')
+data.setCell(0, 1, 'coupleFilter')
 data.setCell(0, 2, 'Filters')
-data.setCell(0, 3, 52414);
+data.setCell(0, 3, 11221);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'actionAdd')
-data.setCell(1, 2, 'Actions')
-data.setCell(1, 3, 20645);
+data.setCell(1, 1, 'filterFieldsQ')
+data.setCell(1, 2, 'Filters')
+data.setCell(1, 3, 6);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'coupleFilter')
+data.setCell(2, 1, 'filterFieldsIP')
 data.setCell(2, 2, 'Filters')
-data.setCell(2, 3, 17648);
+data.setCell(2, 3, 6);
 data.setCell(3, 0, 3)
-data.setCell(3, 1, 'filterFieldsQ')
-data.setCell(3, 2, 'Filters')
-data.setCell(3, 3, 11178);
+data.setCell(3, 1, 'actionEdit')
+data.setCell(3, 2, 'Actions')
+data.setCell(3, 3, 6);
 data.setCell(4, 0, 4)
-data.setCell(4, 1, 'login')
-data.setCell(4, 2, 'Login')
-data.setCell(4, 3, 3547);
+data.setCell(4, 1, 'actionAdd')
+data.setCell(4, 2, 'Actions')
+data.setCell(4, 3, 5);
 data.setCell(5, 0, 5)
-data.setCell(5, 1, 'actionEdit')
-data.setCell(5, 2, 'Actions')
-data.setCell(5, 3, 7);
+data.setCell(5, 1, 'login')
+data.setCell(5, 2, 'Login')
+data.setCell(5, 3, 0);
 window.suiteTableData['Grid_System']= { tableData: data, tableDiv: 'times-div-Grid_System'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <span class="suite-total-time">Total running time: 11 seconds</span>
               <div id="times-div-Grid_System">
               </div> <!-- times-div-Grid_System -->
             </div> <!-- times-div -->
@@ -421,24 +459,28 @@ return data;
               <div class="chronological-class-name">Login</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">login</span>
-                <span class="method-start">11400 ms</span>
+                <span class="method-start">10815 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">Filters</div> <!-- chronological-class-name -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">coupleFilter</span>
-                <span class="method-start">15043 ms</span>
+                <span class="method-start">10851 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">filterFieldsIP</span>
-                <span class="method-start">32691 ms</span>
+                <span class="method-start">22073 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">filterFieldsQ</span>
-                <span class="method-start">85105 ms</span>
+                <span class="method-start">22079 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
@@ -447,19 +489,19 @@ return data;
                 <img src="failed.png">
                 </img>
                 <span class="method-name">actionAdd</span>
-                <span class="method-start">96326 ms</span>
+                <span class="method-start">22131 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">actionEdit</span>
-                <span class="method-start">116972 ms</span>
+                <span class="method-start">22136 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-suite after">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">closeWebDriver</span>
-                <span class="method-start">117036 ms</span>
+                <span class="method-start">22177 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

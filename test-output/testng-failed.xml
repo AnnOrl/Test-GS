@@ -6,7 +6,9 @@
       <class name="Filters">
         <methods>
           <include name="filterFieldsIP"/>
+          <include name="coupleFilter"/>
           <include name="closeWebDriver"/>
+          <include name="filterFieldsQ"/>
           <include name="runWebDriver"/>
         </methods>
       </class> <!-- Filters -->
