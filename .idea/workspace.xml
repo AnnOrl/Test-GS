@@ -1,7 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c69eeebb-e4b8-407f-a3cc-082a38f4d0bd" name="Default" comment="" />
+    <list default="true" id="c69eeebb-e4b8-407f-a3cc-082a38f4d0bd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/xml-apis-1.4.01.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/cglib_nodep_3_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test-GS.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sel.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/.github/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/.github/PULL_REQUEST_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/.mailmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/ANNOUNCEMENT.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/CHANGES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/CHECKLIST" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/README-publish" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/README.build" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/README.dev" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/appveyor.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/bin/junitconverter.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/bin/master.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/bin/run-tests.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/bin/slave.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/bin/testng.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/bin/testng.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/build-with-gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/deploy-to-maven" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/gradle/buildWithTravis.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/gradle/publishing-jcenter.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/gradle/publishing-maven.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/gradle/publishing.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/gradle/uploadSnapshot.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/kobaltw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/testng/travis.sh" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/LICENSE" afterPath="$PROJECT_DIR$/libs/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/NOTICE" afterPath="$PROJECT_DIR$/libs/NOTICE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/client-combined-3.4.0-nodeps.jar" afterPath="$PROJECT_DIR$/libs/testng-6.11.1-SNAPSHOT-javadoc.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/cglib-nodep-3.2.4.jar" afterPath="$PROJECT_DIR$/libs/cglib-nodep-3.2.4.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/commons-codec-1.10.jar" afterPath="$PROJECT_DIR$/libs/commons-codec-1.10.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/commons-exec-1.3.jar" afterPath="$PROJECT_DIR$/libs/commons-exec-1.3.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/commons-io-2.5.jar" afterPath="$PROJECT_DIR$/libs/commons-io-2.5.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/commons-lang3-3.5.jar" afterPath="$PROJECT_DIR$/libs/commons-lang3-3.5.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/commons-logging-1.2.jar" afterPath="$PROJECT_DIR$/libs/commons-logging-1.2.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/cssparser-0.9.22.jar" afterPath="$PROJECT_DIR$/libs/cssparser-0.9.22.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/gson-2.8.0.jar" afterPath="$PROJECT_DIR$/libs/gson-2.8.0.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/guava-21.0.jar" afterPath="$PROJECT_DIR$/libs/guava-21.0.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/hamcrest-core-1.3.jar" afterPath="$PROJECT_DIR$/libs/hamcrest-core-1.3.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/htmlunit-2.26.jar" afterPath="$PROJECT_DIR$/libs/htmlunit-2.26.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/htmlunit-core-js-2.26.jar" afterPath="$PROJECT_DIR$/libs/htmlunit-core-js-2.26.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/htmlunit-driver-2.26.jar" afterPath="$PROJECT_DIR$/libs/htmlunit-driver-2.26.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/httpclient-4.5.3.jar" afterPath="$PROJECT_DIR$/libs/httpclient-4.5.3.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/httpcore-4.4.6.jar" afterPath="$PROJECT_DIR$/libs/httpcore-4.4.6.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/httpmime-4.5.3.jar" afterPath="$PROJECT_DIR$/libs/httpmime-4.5.3.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/javax.servlet-api-3.1.0.jar" afterPath="$PROJECT_DIR$/libs/javax.servlet-api-3.1.0.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/jetty-io-9.4.1.v20170120.jar" afterPath="$PROJECT_DIR$/libs/jetty-io-9.4.1.v20170120.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/jetty-util-9.4.1.v20170120.jar" afterPath="$PROJECT_DIR$/libs/jetty-util-9.4.1.v20170120.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/jna-4.1.0.jar" afterPath="$PROJECT_DIR$/libs/jna-4.1.0.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/jna-platform-4.1.0.jar" afterPath="$PROJECT_DIR$/libs/jna-platform-4.1.0.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/junit-4.12.jar" afterPath="$PROJECT_DIR$/libs/junit-4.12.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/neko-htmlunit-2.25.jar" afterPath="$PROJECT_DIR$/libs/neko-htmlunit-2.25.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/phantomjsdriver-1.4.0.jar" afterPath="$PROJECT_DIR$/libs/phantomjsdriver-1.4.0.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/sac-1.3.jar" afterPath="$PROJECT_DIR$/libs/sac-1.3.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/serializer-2.7.2.jar" afterPath="$PROJECT_DIR$/libs/serializer-2.7.2.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/websocket-api-9.4.3.v20170317.jar" afterPath="$PROJECT_DIR$/libs/testng-6.11.1-SNAPSHOT-sources.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/websocket-client-9.4.3.v20170317.jar" afterPath="$PROJECT_DIR$/libs/testng-6.11.1-SNAPSHOT.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/websocket-common-9.4.3.v20170317.jar" afterPath="$PROJECT_DIR$/libs/websocket-api-9.4.3.v20170317.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/xalan-2.7.2.jar" afterPath="$PROJECT_DIR$/libs/websocket-client-9.4.3.v20170317.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/xercesImpl-2.11.0.jar" afterPath="$PROJECT_DIR$/libs/websocket-common-9.4.3.v20170317.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/xml-apis-1.4.01.jar" afterPath="$PROJECT_DIR$/libs/xalan-2.7.2.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/testng/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/libs/xercesImpl-2.11.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/client-combined-3.4.0-nodeps.jar" afterPath="$PROJECT_DIR$/libs/client-combined-3.4.0-nodeps.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/jcommander-1.27.jar" afterPath="$PROJECT_DIR$/libs/jcommander-1.27.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/testng-6.11.jar" afterPath="$PROJECT_DIR$/libs/testng-6.11.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run.bat" afterPath="$PROJECT_DIR$/run.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ActionDrivers/MainDriver.java" afterPath="$PROJECT_DIR$/src/ActionDrivers/MainDriver.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,49 +99,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainClasses.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tests/MainClasses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-              <folding>
-                <element signature="e#392#393#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Actions.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Actions.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tests/Actions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="30" column="42" lean-forward="false" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+            <state relative-caret-position="-2276">
+              <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainDriver.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ActionDrivers/MainDriver.java">
+      <file leaf-file-name="Test-GS.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test-GS.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="48" column="45" lean-forward="false" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1634#1635#0" expanded="true" />
-                <element signature="e#1696#1697#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -89,6 +145,7 @@
       <find>finish</find>
       <find>Config</find>
       <find>Type</find>
+      <find>jcomm</find>
     </findStrings>
     <replaceStrings>
       <replace>this.driver</replace>
@@ -102,7 +159,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/libs/testng" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -133,9 +190,10 @@
         <option value="$PROJECT_DIR$/src/tests/MainClasses.java" />
         <option value="$PROJECT_DIR$/src/tests/Login.java" />
         <option value="$PROJECT_DIR$/src/tests/Filters.java" />
-        <option value="$PROJECT_DIR$/src/ActionDrivers/MainDriver.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/tests/Actions.java" />
+        <option value="$PROJECT_DIR$/src/ActionDrivers/MainDriver.java" />
+        <option value="$PROJECT_DIR$/Test-GS.iml" />
       </list>
     </option>
   </component>
@@ -171,28 +229,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Sel" />
+              <option name="myItemId" value="Test-GS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Sel" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test-GS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test-GS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Sel" />
+              <option name="myItemId" value="Test-GS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Sel" />
+              <option name="myItemId" value="Test-GS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -206,11 +271,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Sel" />
+              <option name="myItemId" value="Test-GS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Sel" />
+              <option name="myItemId" value="Test-GS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -224,32 +289,36 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/testng-6.11.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/xml-apis-1.4.01.jar!/" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\orlya\IdeaProjects\Sel" />
-      <recent name="C:\Users\orlya\IdeaProjects\Sel\src\tests" />
-      <recent name="C:\Users\orlya\IdeaProjects\Sel\src\ActionDrivers" />
-      <recent name="C:\Users\orlya\IdeaProjects\Sel\mainFunct" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\orlya\IdeaProjects\Sel\libs" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\orlya\var\www\tests\Test-GS\libs" />
+      <recent name="C:\Users\orlya\var\www\tests\Test-GS\libs\selenium-java-3.4.0" />
+      <recent name="C:\Users\orlya\IdeaProjects\Sel" />
+      <recent name="C:\Users\orlya\IdeaProjects\Sel\src\tests" />
+      <recent name="C:\Users\orlya\IdeaProjects\Sel\src\ActionDrivers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -879,13 +948,14 @@
       <workItem from="1500905237836" duration="12000" />
       <workItem from="1501245587836" duration="1117000" />
       <workItem from="1501251790446" duration="381000" />
+      <workItem from="1501310092807" duration="1435000" />
+      <workItem from="1501311575804" duration="1012000" />
+      <workItem from="1501312628064" duration="65000" />
+      <workItem from="1501312830657" duration="1985000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_orlya_IdeaProjects_Sel_testng_xml - 2017.07.22 at 12h 47m 44s.xml">
-      <configuration name="C:/Users/orlya/IdeaProjects/Sel/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_orlya_IdeaProjects_Sel_testng_xml - 2017.07.22 at 12h 50m 05s.xml">
       <configuration name="C:/Users/orlya/IdeaProjects/Sel/testng.xml" configurationId="TestNG" />
     </history-entry>
@@ -913,41 +983,44 @@
     <history-entry file="C__Users_orlya_IdeaProjects_Sel_testng_xml - 2017.07.22 at 13h 19m 45s.xml">
       <configuration name="C:/Users/orlya/IdeaProjects/Sel/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_orlya_IdeaProjects_Sel_testng_xml - 2017.07.29 at 13h 16m 32s.xml">
+      <configuration name="C:/Users/orlya/IdeaProjects/Sel/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82354000" />
+    <option name="totallyTimeSpent" value="86851000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32818073" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.50216216" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29726517" sideWeight="0.49783784" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29726517" sideWeight="0.49783784" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15243243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30162162" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25352877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -958,6 +1031,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/libs/testng" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -976,8 +1054,6 @@
           <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1634#1635#0" expanded="true" />
-            <element signature="e#1696#1697#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1017,8 +1093,6 @@
           <caret line="42" column="45" lean-forward="false" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1634#1635#0" expanded="true" />
-            <element signature="e#1696#1697#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1038,13 +1112,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/junit-4.12.jar!/org/junit/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/junit-4.12.jar!/org/junit/Assert.class" />
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -1059,8 +1127,6 @@
           <caret line="56" column="9" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1634#1635#0" expanded="true" />
-            <element signature="e#1696#1697#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1102,7 +1168,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sel.iml">
+    <entry file="file://$PROJECT_DIR$/Test-GS.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8350">
           <caret line="334" column="17" lean-forward="false" selection-start-line="334" selection-start-column="17" selection-end-line="334" selection-end-column="17" />
@@ -1115,8 +1181,6 @@
           <caret line="52" column="26" lean-forward="false" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1634#1635#0" expanded="true" />
-            <element signature="e#1696#1697#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1136,7 +1200,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sel.iml">
+    <entry file="file://$PROJECT_DIR$/Test-GS.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1200,22 +1264,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sel.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-700">
-          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tests/Login2.class" />
     <entry file="file://$PROJECT_DIR$/src/tests/Login2.java" />
-    <entry file="jar://$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/junit-4.12.jar!/org/junit/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/selenium-java-3.4.0/lib/junit-4.12.jar!/org/junit/Assert.class" />
     <entry file="file://$PROJECT_DIR$/src/tests/AllTests.java" />
     <entry file="file://$PROJECT_DIR$/src/tests/Login.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
@@ -1225,13 +1276,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/selenium-java-3.4.0/client-combined-3.4.0-nodeps.jar!/org/openqa/selenium/support/pagefactory/ByAll.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="19" column="11" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/selenium-java-3.4.0/client-combined-3.4.0-nodeps.jar!/org/openqa/selenium/support/pagefactory/ByAll.class" />
     <entry file="file://$PROJECT_DIR$/src/tests/Login.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -1247,6 +1292,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ActionDrivers/MainDriver.class" />
+    <entry file="file://$PROJECT_DIR$/src/tests/MainClasses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -1255,34 +1308,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/Actions.java">
+    <entry file="file://$PROJECT_DIR$/src/ActionDrivers/MainDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="30" column="42" lean-forward="false" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+        <state relative-caret-position="425">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test-GS.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/MainClasses.java">
+    <entry file="file://$PROJECT_DIR$/src/tests/Actions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding>
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ActionDrivers/MainDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="48" column="45" lean-forward="false" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1634#1635#0" expanded="true" />
-            <element signature="e#1696#1697#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-2276">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1315,6 +1363,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>client-combined-3.4.0-nodeps</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1338,12 +1387,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Sel</last-edited>
+          <last-edited>Test-GS</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1351,7 +1399,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>libs1</last-edited>
+          <last-edited>cglib-nodep-3.2.4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
