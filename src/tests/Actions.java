@@ -43,7 +43,7 @@ public class Actions extends MainClasses {
             ), false);
             String newUrl = DRIVER.getCurrentUrl();
             if (oldUrl.indexOf(newUrl) >= 0 || error) {
-                MainDriver.fail("URL has not changed. Message error: "+
+                MainDriver.fail("URL has not changed. Message error: " +
                         DRIVER.findElement(By.cssSelector(".ui.error.message .content")).getText());
             }
         }
@@ -57,7 +57,7 @@ public class Actions extends MainClasses {
                 {"RelationsForm", "a"},
         };
         for (int j = 0; j < tables.length; j++) {
-            MainDriver.getUrl(DRIVER, "/edit/" + tables[j]+"/1");
+            MainDriver.getUrl(DRIVER, "/edit/" + tables[j] + "/1");
             MainDriver.myWait(DRIVER, 10, ExpectedConditions.visibilityOfElementLocated(
                     By.cssSelector(".ribbon-text .ui.fluid.input")
             ), true);
@@ -72,7 +72,7 @@ public class Actions extends MainClasses {
                     By.cssSelector(".ui.error.message")
             ), false);
             if (error) {
-                MainDriver.fail("Message error: "+
+                MainDriver.fail("Message error: " +
                         DRIVER.findElement(By.cssSelector(".ui.error.message .content")).getText());
             }
         }
@@ -103,10 +103,7 @@ public class Actions extends MainClasses {
                     sentKey(By.cssSelector(".ribbon-text:not(.ribbon-text-my-style) ." + type + " .ui.fluid.input .ui.fluid.input input"), value);
             }
         } catch (Exception eee) {
-
         }
-
-
     }
 
     public void sentKey(By stringParams, String value) {
