@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Grid System]">
+  <test name="Filters(failed)">
+    <classes>
+      <class name="Filters">
+        <methods>
+          <include name="filterFieldsIP"/>
+          <include name="closeWebDriver"/>
+          <include name="runWebDriver"/>
+        </methods>
+      </class> <!-- Filters -->
+    </classes>
+  </test> <!-- Filters(failed) -->
+  <test name="Actions add/edit(failed)">
+    <classes>
+      <class name="Actions">
+        <methods>
+          <include name="closeWebDriver"/>
+          <include name="runWebDriver"/>
+          <include name="actionEdit"/>
+          <include name="actionAdd"/>
+        </methods>
+      </class> <!-- Actions -->
+    </classes>
+  </test> <!-- Actions add/edit(failed) -->
+</suite> <!-- Failed suite [Grid System] -->
