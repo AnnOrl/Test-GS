@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c69eeebb-e4b8-407f-a3cc-082a38f4d0bd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tests/Actions.java" afterPath="$PROJECT_DIR$/src/tests/Actions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tests/Login.java" afterPath="$PROJECT_DIR$/src/tests/Login.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Actions add_edit.html" afterPath="$PROJECT_DIR$/test-output/Grid System/Actions add_edit.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Actions add_edit.xml" afterPath="$PROJECT_DIR$/test-output/Grid System/Actions add_edit.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Grid System/Filters.html" afterPath="$PROJECT_DIR$/test-output/Grid System/Filters.html" />
@@ -24,11 +25,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Actions.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Actions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tests/Actions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="106" column="8" lean-forward="false" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
+            <state relative-caret-position="824">
+              <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test-GS.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test-GS.iml">
+      <file leaf-file-name="Login.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tests/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="150">
+              <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -115,12 +116,12 @@
         <option value="$PROJECT_DIR$/src/tests/Main.java" />
         <option value="$PROJECT_DIR$/src/tests/classes/Login.java" />
         <option value="$PROJECT_DIR$/src/tests/MainClasses.java" />
-        <option value="$PROJECT_DIR$/src/tests/Login.java" />
         <option value="$PROJECT_DIR$/src/tests/Filters.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/ActionDrivers/MainDriver.java" />
         <option value="$PROJECT_DIR$/Test-GS.iml" />
         <option value="$PROJECT_DIR$/src/tests/Actions.java" />
+        <option value="$PROJECT_DIR$/src/tests/Login.java" />
       </list>
     </option>
   </component>
@@ -915,7 +916,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87355000" />
+    <option name="totallyTimeSpent" value="87963000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -1227,13 +1228,6 @@
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/libs/selenium-java-3.4.0/client-combined-3.4.0-nodeps.jar!/org/openqa/selenium/support/pagefactory/ByAll.class" />
-    <entry file="file://$PROJECT_DIR$/src/tests/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="8" column="102" lean-forward="false" selection-start-line="8" selection-start-column="102" selection-end-line="8" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tests/Filters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1278,11 +1272,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tests/Actions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="106" column="8" lean-forward="false" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
+        <state relative-caret-position="824">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
